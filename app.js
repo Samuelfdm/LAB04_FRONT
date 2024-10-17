@@ -1,4 +1,4 @@
-const apiUrl = 'https://apptareas-f5gxfjabgwfxe2ed.canadacentral-01.azurewebsites.net/tareas';
+const apiUrl = 'http://localhost:8080/tareas';
 let currentTareaId = null;
 
 // Obtener todas las tareas cuando cargue la pagina
